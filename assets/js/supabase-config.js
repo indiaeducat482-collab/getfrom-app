@@ -1,2 +1,0 @@
-window.GETFROM_SUPABASE_URL="https://erdmhznfhtamktjcfwee.supabase.co";
-window.GETFROM_SUPABASE_KEY="sb_publishable_YzFrG02fWJ4LLrXaFskFFg_ISCwKVY1";

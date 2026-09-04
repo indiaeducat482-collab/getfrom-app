@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="100" viewBox="0 0 420 100">
-<rect x="5" y="10" width="80" height="80" rx="22" fill="#6c4cff"/>
-<path d="M28 34h34v10H40v10h19v10H40v12H28z" fill="white"/>
-<text x="105" y="66" font-family="Arial,sans-serif" font-size="48" font-weight="800" fill="#161a2b">Get<tspan fill="#6c4cff">FROM</tspan></text>
-</svg>
